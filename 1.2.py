@@ -1,3 +1,5 @@
+# 2. A program that will count the sum of the digits from a given input string digits. (use for loop and some operators under module 1 and 2)
+
 string = input('Enter string that containing digits:')
 sum = 0
 

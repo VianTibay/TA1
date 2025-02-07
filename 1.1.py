@@ -1,3 +1,4 @@
+# 1. A program that will display the number of vowels, consonants, spaces, and other characters given an input string. (use for loop and some operators under module 1 and 2)
 input_string = input('Enter a String:')
 vowels = 0
 consonants = 0
